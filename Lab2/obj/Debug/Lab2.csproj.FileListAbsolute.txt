@@ -1,0 +1,9 @@
+C:\CPRG211-OOP2\Lab2\Lab2\bin\Debug\employees.txt
+C:\CPRG211-OOP2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\CPRG211-OOP2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\CPRG211-OOP2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\CPRG211-OOP2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\CPRG211-OOP2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\CPRG211-OOP2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\CPRG211-OOP2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\CPRG211-OOP2\Lab2\Lab2\obj\Debug\Lab2.pdb
